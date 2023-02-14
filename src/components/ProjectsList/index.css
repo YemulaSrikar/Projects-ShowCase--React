@@ -1,0 +1,15 @@
+.projects-list {
+  margin-right: 15px;
+  list-style-type: none;
+}
+.projects-img {
+  height: 220px;
+  border-radius: 13px;
+}
+.projects-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+}

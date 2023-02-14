@@ -1,0 +1,52 @@
+.projects-U-List {
+  display: flex;
+  flex-wrap: wrap;
+}
+.select-lst {
+  margin: 23px;
+  margin-left: 28px;
+  height: 50px;
+  width: 35%;
+  border-radius: 08px;
+  cursor: pointer;
+  outline: none;
+}
+.failure-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.failure-img {
+  height: 30vh;
+}
+.failure-head {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 500;
+}
+.failure-desc {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+}
+.failure-btn {
+  color: #ffffff;
+  background-color: #328af2;
+  height: 50px;
+  width: 90px;
+  border: none;
+  border-radius: 08px;
+  cursor: pointer;
+  outline: none;
+}
+.loader-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
